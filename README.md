@@ -1,6 +1,6 @@
 # Taxi-scheduling-system
 
-ISYE6669-course project 2020summer
+Gatech ISYE6669-course project 2020Summer
 
 Mixed-integer programming (MIP)
 
